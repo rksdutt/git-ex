@@ -1,2 +1,4 @@
 git init
 git status
+git clone
+git remote -v
