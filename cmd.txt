@@ -6,3 +6,4 @@ git pull
 git fetch
 git push
 git log --oneline
+git remote set-url origin https://<pat>@github/rksdutt/git-ex.git
